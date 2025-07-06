@@ -116,9 +116,6 @@ Sounce Fast Charging Cable						                      	379,895
 - Products above ₹500 contribute significantly to revenue despite fewer units — premium products seem to perform well.
 - Recommend improving visibility for highly rated products with fewer reviews to boost sales.
 
-## Repository Contents
-- `analysis.xlsx` — cleaned dataset, pivot tables, dashboard
-- `report.docx` — full analysis report
 
 ## Author
-Your Name
+EMMANUEL OBITE
